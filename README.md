@@ -8,11 +8,12 @@ Ayesh, M., Mohammad, S. M., & Ousidhoum, N. (2026). **Annotating Dimensions of S
 
 ## Citation
 If you use our data or guidelines, please cite:
-```@inproceedings{ayesh-etal-2026-warmth-competence,
+```
+@inproceedings{ayesh-etal-2026-warmth-competence,
   title     = {Annotating Dimensions of Social Perception in Text: A Sentence-Level Dataset of Warmth and Competence},
   author    = {Ayesh, Mutaz and Mohammad, Saif M. and Ousidhoum, Nedjma},
   booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)},
   year      = {2026},
-  publisher = {Association for Computational Linguistics},
+  publisher = {Association for Computational Linguistics}
 }
 ```
